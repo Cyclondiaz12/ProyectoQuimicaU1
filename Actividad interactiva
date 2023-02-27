@@ -1,0 +1,89 @@
+package jazminquimica;
+
+import javax.swing.ImageIcon;
+import javax.swing.JOptionPane;
+
+/**
+ *
+ * @author oswal
+ */
+public class Puntos {
+    
+      public static void main(String[] args) 
+              
+      {
+                JOptionPane.showMessageDialog(null,"\nCATEGORÍA: No metales"
+                        + "\n "
+                        + "\nUsos tecnológicos: "
+                        + "\n-De él derivan muchos hidrocarburos."
+                        +"\n-Es usado en los polímeros como: plásticos, Fibras, adhesivos, etc.", "Actividad 1 punto",
+                JOptionPane.INFORMATION_MESSAGE, new ImageIcon("src/jazminquimica/Carbono.jpg"));
+                
+                JOptionPane.showMessageDialog(null,"Enhorabuena, estás un punto más lejos de "
+                        + "\nreprobar Probabilidad y Estadística", "Felicidades, es Carbono",
+                JOptionPane.INFORMATION_MESSAGE, new ImageIcon("src/jazminquimica/Felicidades.jpg"));
+                
+                
+                
+                
+                
+                
+                
+                 JOptionPane.showMessageDialog(null,"\nCATEGORÍA: Gases nobles"
+                        + "\n "
+                        + "\nUsos tecnológicos: "
+                        + "\n-Muy usado en carteles publicitarios."
+                        +"\n-Presente en punteros láser.", "Actividad 0.5 puntos",
+                JOptionPane.INFORMATION_MESSAGE, new ImageIcon("src/jazminquimica/Neón.jpg"));
+                
+                JOptionPane.showMessageDialog(null,"Enhorabuena, estás medio punto más lejos de "
+                        + "\nreprobar Probabilidad y Estadística", "Felicidades, es Neón",
+                JOptionPane.INFORMATION_MESSAGE, new ImageIcon("src/jazminquimica/Felicidades.jpg"));
+                
+                
+                
+                
+                
+                
+                 JOptionPane.showMessageDialog(null,"\nCATEGORÍA: Halógenos"
+                        + "\n "
+                        + "\nUsos tecnológicos: "
+                        + "\n-Usado en muchos desinfectantes."
+                        +"\n-Aplicado para tratamiento del agua potable.", "Actividad 0.5 puntos",
+                JOptionPane.INFORMATION_MESSAGE, new ImageIcon("src/jazminquimica/Duda"
+                        + ""
+                        + ".jpg"));
+                
+                JOptionPane.showMessageDialog(null,"Enhorabuena, estás medio punto más lejos de "
+                        + "\nreprobar Probabilidad y Estadística", "Felicidades, es Cloro",
+                JOptionPane.INFORMATION_MESSAGE, new ImageIcon("src/jazminquimica/Felicidades.jpg"));
+                
+                
+                
+                
+                
+                 JOptionPane.showMessageDialog(null,"\nCATEGORÍA: Metaloides"
+                        + "\n "
+                        + "\nUsos tecnológicos: "
+                        + "\n-Muy usado para armas o experimentos por su alta radiactividad."
+                        +"\n-Presente en la composición del tabaco.", "Actividad 1 punto",
+                JOptionPane.INFORMATION_MESSAGE, new ImageIcon("src/jazminquimica/Polonio.jpg"));
+                
+                JOptionPane.showMessageDialog(null,"Enhorabuena, estás un punto más lejos de "
+                        + "\nreprobar Probabilidad y Estadística", "Felicidades, es Polonio",
+                JOptionPane.INFORMATION_MESSAGE, new ImageIcon("src/jazminquimica/Felicidades.jpg"));
+                
+                
+                
+                
+                
+                JOptionPane.showMessageDialog(null,"Su nombre es Bismuto, dí el número del elemento.", "Actividad 1 punto",
+                JOptionPane.INFORMATION_MESSAGE, new ImageIcon("src/jazminquimica/Bismuto.jpg"));
+                
+                JOptionPane.showMessageDialog(null,"Enhorabuena, estás un punto más lejos de "
+                        + "\nreprobar Probabilidad y Estadística", "Felicidades, es el 83",
+                JOptionPane.INFORMATION_MESSAGE, new ImageIcon("src/jazminquimica/Felicidades.jpg"));
+                
+              
+                   }
+}
